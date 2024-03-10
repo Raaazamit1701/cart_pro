@@ -22,7 +22,7 @@ let products = [
     },
     {
         id: 2,
-        name: 'Pan Cake',
+        name: 'Ice cream',
         image: '2.jpg',
         price: 180
     },
